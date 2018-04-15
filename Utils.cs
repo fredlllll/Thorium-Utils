@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Thorium_Utils
+namespace Thorium.Utils
 {
     public static class Utils
     {
